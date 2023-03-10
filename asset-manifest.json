@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Memory-Card/static/css/main.cdb6f004.css",
+    "main.js": "/Memory-Card/static/js/main.c53d1bd1.js",
+    "static/media/crawfish.png": "/Memory-Card/static/media/crawfish.7ceecee8e7a12c80eee2.png",
+    "static/media/dimsum.jpg": "/Memory-Card/static/media/dimsum.526a0f0824c89bcb0953.jpg",
+    "static/media/chicken-rice.png": "/Memory-Card/static/media/chicken-rice.612ae76fee15aa6b0eb0.png",
+    "static/media/sushi.png": "/Memory-Card/static/media/sushi.6cd793168f4b33f6dab5.png",
+    "static/media/zongzi.jpg": "/Memory-Card/static/media/zongzi.d00f086faf55e5927b18.jpg",
+    "static/media/ramen.jpg": "/Memory-Card/static/media/ramen.aec29cb100d5cdadfbca.jpg",
+    "static/media/steak.png": "/Memory-Card/static/media/steak.3deb7bd583478f570c37.png",
+    "static/media/hotpot.jpg": "/Memory-Card/static/media/hotpot.b20d547d41d78c32cc14.jpg",
+    "static/media/boba.jpg": "/Memory-Card/static/media/boba.9c68dbc41ceea0edb30a.jpg",
+    "static/media/takoyaki.jpg": "/Memory-Card/static/media/takoyaki.0bf3f04b8feb6b2b17ef.jpg",
+    "static/media/VarelaRound-Regular.ttf": "/Memory-Card/static/media/VarelaRound-Regular.6b0ad79431843e696f58.ttf",
+    "static/media/matcha.jpg": "/Memory-Card/static/media/matcha.529e5fb0ec89ad05eaf3.jpg",
+    "static/media/curry.jpg": "/Memory-Card/static/media/curry.c7cc4197d4aac3487a26.jpg",
+    "index.html": "/Memory-Card/index.html",
+    "main.cdb6f004.css.map": "/Memory-Card/static/css/main.cdb6f004.css.map",
+    "main.c53d1bd1.js.map": "/Memory-Card/static/js/main.c53d1bd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdb6f004.css",
+    "static/js/main.c53d1bd1.js"
+  ]
+}
