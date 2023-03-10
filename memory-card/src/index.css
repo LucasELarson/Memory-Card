@@ -1,0 +1,128 @@
+@font-face {
+   font-family: Varela;
+   src: url(./Fonts/VarelaRound-Regular.ttf);
+}
+
+body{
+   display: flex;
+   margin: 0;
+   height: 100vh;
+   width: 100vw;
+   background-color: rgba(0, 0, 0, 0.562);
+   align-items: center;
+   overflow: hidden;
+}
+
+img{
+   height: 12vw;
+   width: 12vw;
+   border-radius: 5px;
+}
+
+.card{
+   background-color: rgb(175, 175, 175);
+   min-width: 5vw;
+   max-width: 30vw;
+   min-height: 5vw;
+   max-height: 30vw;
+   display: flex;
+   justify-content: center;
+   border-radius: 10px;
+}
+
+.lossScore{
+   font-size: 2vw;
+}
+
+.cardContainer{
+   height: 80vh;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   align-content: flex-start;
+   row-gap: 1vw;
+   margin-left: 1vw;
+   margin-right: 1vw;  
+}
+
+#results{
+   z-index: 1;
+   width: 100vw;
+   height: 100vh;
+   position: absolute;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   
+}
+
+#winner, #loser, #onboard{
+   background-color: rgb(39, 39, 39);
+   border-radius: 50px;
+   height: 50vw;
+   width: 50vw;
+   color: azure;
+   font-family: "Varela"; 
+   justify-content: space-evenly;
+   align-items: center;
+   flex-direction: column;
+}
+
+
+#replay{
+   font-size: 3vw;
+   border-radius: 10px;
+   background-color: rgba(95, 158, 160, 0);
+   border-style: none;
+   color: white;
+   font-family: "Varela";
+}
+
+#resultoption{
+   display: flex;
+   width: 100%;
+   justify-content: space-evenly;
+}
+
+#winner{
+   display: none;
+   font-size: 8vw;
+}
+
+#onboard{
+   display: flex;
+   font-size: 5vw;
+}
+
+
+#loser{
+   display: none;
+   font-size: 7vw;
+}
+
+.header{
+   height: 20vh;
+   display: flex;
+   flex-direction: column;
+   background-color: rgb(70, 69, 69);
+   justify-content: flex-end;
+   align-items: center;
+}
+
+.title{
+   font-family: 'Varela';
+   font-size: 2.5em;
+}
+
+.scoreBoard{
+   font-family: 'Varela';
+   display: flex;
+   gap: 10px;
+}
+
+figcaption{
+   font-family: 'Varela';
+   font-weight: 800;
+   font-size: 3ch;
+   color: rgb(28, 28, 28);
+}
